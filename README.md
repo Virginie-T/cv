@@ -6,7 +6,7 @@
 | ------------- |:--------------------:|:--------------:|:--------------------:|:--------------------:|--------------------:|
 |Javascript |	Hapi.js	                | Tape/Tap	      |  Git        |	PostgreSQL | Wordpress
 |Node.js |	React.js	            | Mocha         |	npm	            |Redis | Drupal
-|HTML5 |	Angular.js              |	QUnit	        	| Heroku | | Business Catalyst
+|HTML5 |	Angular.js (notion)             |	QUnit	        	| Heroku | | Business Catalyst
 |CSS3 |	jQuery	               | Chai            	| gh-pages | | |
 | Markdown|	Foundation 5	             | Jasmine | API| | |
 |Handlebars	| Bootstrap	& react-bootstrap          | Auth| | | |
